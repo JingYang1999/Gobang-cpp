@@ -1,0 +1,16 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  stdafx.cpp
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  gobang.cpp
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+c:\users\love-\source\repos\gobang\gobang\gobang.cpp(16): warning C5033: “register”不再为受支持的存储类
+c:\users\love-\source\repos\gobang\gobang\gobang.cpp(36): warning C5033: “register”不再为受支持的存储类
+c:\users\love-\source\repos\gobang\gobang\gobang.cpp(44): warning C5033: “register”不再为受支持的存储类
+c:\users\love-\source\repos\gobang\gobang\gobang.cpp(74): warning C5033: “register”不再为受支持的存储类
+c:\users\love-\source\repos\gobang\gobang\gobang.cpp(93): warning C5033: “register”不再为受支持的存储类
+c:\users\love-\source\repos\gobang\gobang\gobang.cpp(459): warning C5033: “register”不再为受支持的存储类
+cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+LINK : fatal error LNK1104: 无法打开文件“MSCOREE.lib”
